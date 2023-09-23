@@ -2,10 +2,6 @@
 
 Welcome to the JavaScript RPG Game repository! This project is designed to be both a fun and educational experience, built entirely using HTML, CSS, and JavaScript. Dive into the world of role-playing games while gaining a deeper understanding of JavaScript concepts.
 
-## Game is live here
-
-https://js-rpg-game.netlify.app/
-
 
 ## Table of Contents
 
