@@ -9,7 +9,6 @@ Welcome to the JavaScript RPG Game repository! This project is designed to be bo
 2. [Getting Started](#getting-started)
 3. [Gameplay](#gameplay)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Features
 
@@ -24,7 +23,7 @@ To get started with the JavaScript RPG Game, follow these simple steps:
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/your-username/js-rpg-game.git
+   git clone https://github.com/tayyab-004/JavaScript-RPG-Game.git
    ```
 2. Open the project directory in your preferred code editor.
 
@@ -52,11 +51,7 @@ We welcome contributions to make this project even better! If you'd like to cont
 
 3. Make your changes and commit them.
 
-4. Push your changes to your fork and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+4. Push your changes to your fork and submit a pull request..
 
 ---
 
